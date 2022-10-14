@@ -1,5 +1,5 @@
-name: PRIVATE :: Github Release create, update, and upload assets
-description: PRIVATE :: Github Action to create, update, or add files to Github Releases, fork 'Damian Mee <spam@meedamian.com>'
+name: PRIVATE : Github Release create, update, and upload assets
+description: PRIVATE : Github Action to create, update, or add files to Github Releases, fork 'Damian Mee <spam@meedamian.com>'
 author: 'ezreal <ezreal.ice@icloud.com>'
 
 inputs:
