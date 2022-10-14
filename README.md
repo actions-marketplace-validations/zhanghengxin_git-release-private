@@ -3,7 +3,7 @@
 
 [![gh_last_release_svg]][gh_last_release_url]
 
-[gh_last_release_svg]: https://img.shields.io/github/v/release/meeDamian/github-release?sort=semver
+[gh_last_release_svg]: https://img.shields.io/badge/release-ice-orange
 [gh_last_release_url]: https://github.com/zhanghengxin/git-release-private/releases
 
 
