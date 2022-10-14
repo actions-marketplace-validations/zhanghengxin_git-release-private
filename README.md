@@ -1,8 +1,7 @@
 # meeDamian/github-release
 
-[![branches_gh_action_svg]][branches_gh_action_url]
+
 [![gh_last_release_svg]][gh_last_release_url]
-[![tippin_svg]][tippin_url]
 
 [gh_last_release_svg]: https://img.shields.io/github/v/release/meeDamian/github-release?sort=semver
 [gh_last_release_url]: https://github.com/zhanghengxin/git-release-private/releases
